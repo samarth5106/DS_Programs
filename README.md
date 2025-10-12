@@ -17,7 +17,7 @@ Each folder includes well-commented programs demonstrating implementation and op
 
 ## 🏫 Submitted To
 *Prof.Rakhi Wajgi*
-Department of Computer Engineering  
+Department of Computer Technology  
 Yeshwantrao Chavan College of Engineering
 
 ## 👨‍🎓 Submitted By
